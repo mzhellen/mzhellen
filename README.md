@@ -2,7 +2,7 @@
 
  <p>Hi. I'm Hellen, a Computer Science student at UNIVASF. I'm starting out in programming, trying to learn and improve this valuable skill.</p>
 
- ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mzhellen&layout=compact&theme=tokyonight)
+
 
 
 
